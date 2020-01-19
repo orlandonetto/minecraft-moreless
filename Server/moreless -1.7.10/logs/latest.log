@@ -1,0 +1,123 @@
+[00:16:20] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[00:16:20] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[00:16:20] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[00:16:20] [main/INFO]: Forge Mod Loader version 7.10.114.1388 for Minecraft 1.7.10 loading
+[00:16:21] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_181, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_181
+[00:16:21] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:16:21] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[00:16:21] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:16:21] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:16:21] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:16:23] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:16:23] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[00:16:23] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[00:16:23] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[00:16:24] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[00:16:30] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[00:16:30] [Server thread/INFO]: Attempting early MinecraftForge initialization
+[00:16:30] [Server thread/INFO]: MinecraftForge v10.13.3.1403 Initialized
+[00:16:30] [Server thread/INFO]: Replaced 183 ore recipies
+[00:16:30] [Server thread/INFO]: Preloading CrashReport classes
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.World$1
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.World$2
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.World$3
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.World$4
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.chunk.Chunk$1
+[00:16:30] [Server thread/INFO]: 	net.minecraft.crash.CrashReportCategory$1
+[00:16:30] [Server thread/INFO]: 	net.minecraft.crash.CrashReportCategory$2
+[00:16:30] [Server thread/INFO]: 	net.minecraft.crash.CrashReportCategory$3
+[00:16:30] [Server thread/INFO]: 	net.minecraft.entity.Entity$1
+[00:16:30] [Server thread/INFO]: 	net.minecraft.entity.Entity$2
+[00:16:30] [Server thread/INFO]: 	net.minecraft.entity.EntityTracker$1
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.gen.layer.GenLayer$1
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.gen.layer.GenLayer$2
+[00:16:30] [Server thread/INFO]: 	net.minecraft.entity.player.InventoryPlayer$1
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.gen.structure.MapGenStructure$1
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.gen.structure.MapGenStructure$2
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.gen.structure.MapGenStructure$3
+[00:16:30] [Server thread/INFO]: 	net.minecraft.server.MinecraftServer$3
+[00:16:30] [Server thread/INFO]: 	net.minecraft.server.MinecraftServer$4
+[00:16:30] [Server thread/INFO]: 	net.minecraft.server.MinecraftServer$5
+[00:16:30] [Server thread/INFO]: 	net.minecraft.nbt.NBTTagCompound$1
+[00:16:30] [Server thread/INFO]: 	net.minecraft.nbt.NBTTagCompound$2
+[00:16:30] [Server thread/INFO]: 	net.minecraft.network.NetHandlerPlayServer$2
+[00:16:30] [Server thread/INFO]: 	net.minecraft.network.NetworkSystem$3
+[00:16:30] [Server thread/INFO]: 	net.minecraft.tileentity.TileEntity$1
+[00:16:30] [Server thread/INFO]: 	net.minecraft.tileentity.TileEntity$2
+[00:16:30] [Server thread/INFO]: 	net.minecraft.tileentity.TileEntity$3
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$1
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$2
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$3
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$4
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$5
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$6
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$7
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$8
+[00:16:30] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$9
+[00:16:30] [Server thread/INFO]: 	net.minecraft.server.dedicated.DedicatedServer$3
+[00:16:30] [Server thread/INFO]: 	net.minecraft.server.dedicated.DedicatedServer$4
+[00:16:30] [Server thread/INFO]: Completed early MinecraftForge initialization
+[00:16:30] [Server thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[00:16:30] [Server thread/INFO]: Searching D:\Server Minecraft\_SERVER CLEAN 1.7.10\mods for mods
+[00:16:31] [Server thread/INFO]: Forge Mod Loader has identified 3 mods to load
+[00:16:31] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at CLIENT
+[00:16:31] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER
+[00:16:31] [Server thread/INFO]: Processing ObjectHolder annotations
+[00:16:31] [Server thread/INFO]: Found 341 ObjectHolder annotations
+[00:16:31] [Server thread/INFO]: Configured a dormant chunk cache size of 0
+[00:16:31] [Server thread/INFO]: Applying holder lookups
+[00:16:31] [Server thread/INFO]: Holder lookups applied
+[00:16:31] [Server thread/INFO]: Loading properties
+[00:16:31] [Server thread/INFO]: Default game type: SURVIVAL
+[00:16:32] [Server thread/INFO]: This server is running Cauldron-MCPC-Plus version KCauldron-1.7.10-2.1403.1.54 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[00:16:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:16:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:16:32] [Server thread/WARN]: =============================================================
+[00:16:32] [Server thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[00:16:32] [Server thread/WARN]: Offendor: org/spigotmc/RestartCommand.restart()V
+[00:16:32] [Server thread/WARN]: Use FMLCommonHandler.exitJava instead
+[00:16:32] [Server thread/WARN]: =============================================================
+[00:16:32] [Server thread/INFO]: Generating keypair
+[00:16:32] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[00:16:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:16:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:16:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:16:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:16:33] [Server thread/INFO]: Forge Mod Loader has successfully loaded 3 mods
+[00:16:33] [Server thread/INFO]: Preparing level "world"
+[00:16:33] [Server thread/INFO]: Registered command debug with permission node vanilla.command.debug
+[00:16:33] [Server thread/INFO]: Registered command spreadplayers with permission node vanilla.command.spreadplayers
+[00:16:33] [Server thread/INFO]: Registered command playsound with permission node vanilla.command.playsound
+[00:16:33] [Server thread/INFO]: Registered command scoreboard with permission node vanilla.command.scoreboard
+[00:16:33] [Server thread/INFO]: Registered command achievement with permission node vanilla.command.achievement
+[00:16:33] [Server thread/INFO]: Registered command summon with permission node vanilla.command.summon
+[00:16:33] [Server thread/INFO]: Registered command setblock with permission node vanilla.command.setblock
+[00:16:33] [Server thread/INFO]: Registered command testforblock with permission node vanilla.command.testforblock
+[00:16:33] [Server thread/INFO]: Registered command tellraw with permission node vanilla.command.tellraw
+[00:16:33] [Server thread/INFO]: Registered command netstat with permission node vanilla.command.netstat
+[00:16:33] [Server thread/INFO]: This world was saved with mod FML version 7.10.99.99 and it is now at version 7.10.114.1388, things may not work well
+[00:16:33] [Server thread/INFO]: This world was saved with mod Forge version 10.13.4.1558 and it is now at version 10.13.3.1403, things may not work well
+[00:16:33] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[00:16:33] [Server thread/INFO]: Applying holder lookups
+[00:16:33] [Server thread/INFO]: Holder lookups applied
+[00:16:33] [Server thread/ERROR]: The fluid minecraft:lava specified as default is not present - it will be reverted to default Forge:lava
+[00:16:33] [Server thread/ERROR]: The fluid minecraft:water specified as default is not present - it will be reverted to default Forge:water
+[00:16:34] [Server thread/INFO]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@1a69dbd8)
+[00:16:34] [Server thread/INFO]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@1a69dbd8)
+[00:16:34] [Server thread/INFO]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@1a69dbd8)
+[00:16:34] [Server thread/INFO]: Preparing start region for level 0
+[00:16:35] [Server thread/INFO]: Preparing spawn area: 67%
+[00:16:36] [Server thread/INFO]: Done (2,355s)! For help, type "help" or "?"
+[00:16:36] [Server thread/INFO]: Registered command forge with permission node net.minecraftforge.server.command.ForgeCommand
+[00:16:39] [Server thread/INFO]: CONSOLE: Stopping the server..
+[00:16:39] [Server thread/INFO]: Stopping server
+[00:16:39] [Server thread/INFO]: Saving players
+[00:16:39] [Server thread/INFO]: Saving worlds
+[00:16:39] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:16:39] [Server thread/INFO]: Saving chunks for level 'DIM1'/The End
+[00:16:39] [Server thread/INFO]: Saving chunks for level 'DIM-1'/Nether
+[00:16:39] [Server thread/INFO]: Unloading dimension 0
+[00:16:39] [Server thread/INFO]: Unloading dimension -1
+[00:16:39] [Server thread/INFO]: Unloading dimension 1
+[00:16:39] [Server thread/INFO]: Applying holder lookups
+[00:16:39] [Server thread/INFO]: Holder lookups applied
